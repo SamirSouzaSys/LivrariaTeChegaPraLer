@@ -4,6 +4,8 @@ Projeto desenvolvido para a disciplina Projeto - Desenvolvimento Para Web Com Ja
 
 Site para uma livraria online
 
+Documento Final de entrega - Em Breve!
+
 Vídeo de demonstração do SITE - Em Breve!
 
 Projeto no Github - https://bit.ly/TeChegaPraLer-GIT
