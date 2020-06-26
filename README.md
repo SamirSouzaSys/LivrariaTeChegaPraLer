@@ -6,7 +6,7 @@ Site para uma livraria online
 
 Vídeo de demonstração do SITE - Em Breve!
 
-Projeto no Github - https://bit.ly/appFoodCatalog-appGIT
+Projeto no Github - https://bit.ly/TeChegaPraLer-GIT
 
 Projeto Visual - Figma - https://bit.ly/TeChegaPraLer-FIGMA
 
