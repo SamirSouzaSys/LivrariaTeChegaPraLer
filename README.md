@@ -1,6 +1,6 @@
 # LivrariaTeChegaPraLer
 
-Projeto desenvolvido para a disciplina Projeto - Desenvolvimento Para Web Com Java do curso de Análise e Desenvolvimento de Sistemas (Tecnológico) - Claretiano
+Projeto EM DESENVOLVIMENTO para a disciplina Projeto - Desenvolvimento Para Web Com Java do curso de Análise e Desenvolvimento de Sistemas (Tecnológico) - Claretiano
 
 Site para uma livraria online
 
