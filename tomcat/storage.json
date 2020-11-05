@@ -2,8 +2,8 @@
     "telemetry.machineId": "520e4663f846187456117bfc802cdc74e9734d1d7839b7c34d959fe71089be77",
     "openedPathsList": {
         "workspaces3": [
-            "file:///opt/tomcat/webapps/teChegaPraLer",
-            "file:///opt/tomcat/webapps"
+            "file:///opt/tomcat/webapps",
+            "file:///opt/tomcat/webapps/teChegaPraLer"
         ],
         "files2": []
     },
@@ -21,17 +21,6 @@
         },
         "openedWindows": [
             {
-                "folder": "file:///opt/tomcat/webapps",
-                "backupPath": "/opt/tomcat/webapps/teChegaPraLer/tomcat/Backups/7b160c09d84222c7d5e5fce5fa653e88",
-                "uiState": {
-                    "mode": 1,
-                    "x": 3440,
-                    "y": 33,
-                    "width": 400,
-                    "height": 1047
-                }
-            },
-            {
                 "folder": "file:///opt/tomcat/webapps/teChegaPraLer",
                 "backupPath": "/opt/tomcat/webapps/teChegaPraLer/tomcat/Backups/ac10e39dd6409be4b0522bc44c5dc2ab",
                 "uiState": {
@@ -39,6 +28,17 @@
                     "x": 1920,
                     "y": 33,
                     "width": 1520,
+                    "height": 1047
+                }
+            },
+            {
+                "folder": "file:///opt/tomcat/webapps",
+                "backupPath": "/opt/tomcat/webapps/teChegaPraLer/tomcat/Backups/7b160c09d84222c7d5e5fce5fa653e88",
+                "uiState": {
+                    "mode": 1,
+                    "x": 3440,
+                    "y": 33,
+                    "width": 400,
                     "height": 1047
                 }
             }

@@ -9,6 +9,8 @@ import java.util.*;
 public class ServletLivros extends HttpServlet{
     public void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 
+        // Home - Listar Livros
+
         String livroTitulo = req.getParameter("livroTitulo");
 
 		ConexaoBd conexao = new ConexaoBd();
@@ -26,19 +28,5 @@ public class ServletLivros extends HttpServlet{
         RequestDispatcher view = req.getRequestDispatcher("index.jsp");
         
         view.forward(req, resp);
-
-		// if (usuario.autenticar(loginUsuario, senhaUsuario) == 1) {
-		// 	HttpSession sessao = req.getSession();
-		// 	sessao.setAttribute("idUsuario", String.valueOf(usuario.getId()));
-        //     sessao.setAttribute("nomeUsuario", usuario.getNome());
-        //     sessao.setAttribute("loginUsuario", usuario.getLogin());
-
-		// 	view = req.getRequestDispatcher("AdminHome.jsp");
-		// } else{
-		// 	view = req.getRequestDispatcher("AdminLogout.jsp");
-		// }
-		
-        // conexao.fechar();
-        // view.forward(req, resp);
     }
 }

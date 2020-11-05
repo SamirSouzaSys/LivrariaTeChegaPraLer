@@ -74,6 +74,55 @@ public class Livro {
         }
     }
     
+    public boolean adicionarLivro(String tituloLivro, String autorLivro, int anoLivro, Double precoLivro, int quantidadeLivro, String tipoLivro, String editoraIdLivro, String linkImagem){
+        try {
+            int id = gerarId();
+
+            ps = con.prepareStatement("INSERT INTO acevo(id,titulo,autor,ano,preco,quantidade,tipo,idEditora,imagem) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)");
+            
+            ps.setInt(1, id);
+            ps.setString(2, tituloLivro);
+            ps.setString(3, autorLivro);
+            ps.setInt(4, anoLivro);
+            ps.setDouble(5, precoLivro);
+            ps.setInt(6, quantidadeLivro);
+            ps.setString(7, tipoLivro);
+            ps.setString(8, editoraIdLivro);
+            ps.setString(9, linkImagem);
+
+            ps.executeUpdate();
+            
+            return true;
+        }
+        catch (Exception e)
+        {
+            e.printStackTrace();
+            return false;
+        }
+    }
+
+    public int gerarId() {
+        String novoId;
+
+        try {
+            ps = con.prepareStatement("SELECT MAX(id) as maiorId FROM acevo");
+            rs = ps.executeQuery();
+            rs.next();
+            
+            novoId = rs.getString("maiorId");
+
+            if (novoId == null)
+                return 1;
+            else
+                return Integer.parseInt(novoId) + 1;
+        }
+        catch (Exception e)
+        {
+            e.printStackTrace();
+            return 0;
+        }
+    }
+
     public int getId() {
         return idLivro;}
     public String getTitulo() {

@@ -1,0 +1,8 @@
+[2020-11-05 17:26:21.239] [sharedprocess] [info] main {"machineId":"520e4663f846187456117bfc802cdc74e9734d1d7839b7c34d959fe71089be77","windowId":2}
+[2020-11-05 17:26:29.188] [sharedprocess] [info] Installing extension: cyrilletuzi.angular-schematics
+[2020-11-05 17:26:41.555] [sharedprocess] [info] Downloaded extension: cyrilletuzi.angular-schematics undefined
+[2020-11-05 17:26:41.652] [sharedprocess] [info] Extracted extension to /home/samirsouza/.vscode/extensions/.cyrilletuzi.angular-schematics-4.6.0: cyrilletuzi.angular-schematics
+[2020-11-05 17:26:41.652] [sharedprocess] [info] Renamed to /home/samirsouza/.vscode/extensions/cyrilletuzi.angular-schematics-4.6.0
+[2020-11-05 17:26:41.653] [sharedprocess] [info] Installation completed. cyrilletuzi.angular-schematics
+[2020-11-05 17:26:41.690] [sharedprocess] [info] Extensions installed successfully: cyrilletuzi.angular-schematics
+[2020-11-05 17:27:01.309] [sharedprocess] [info] Starting to clean up unused language packs.

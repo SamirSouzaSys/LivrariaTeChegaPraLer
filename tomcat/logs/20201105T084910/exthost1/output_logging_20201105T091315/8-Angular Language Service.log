@@ -18,3 +18,9 @@
 [Error - 3:24:26 PM] No config file for /opt/tomcat/webapps/dwjmv/index.html
 [Error - 3:24:27 PM] No config file for /opt/tomcat/webapps/dwjmv/listar_contatos.jsp
 [Error - 3:24:35 PM] No config file for /opt/tomcat/webapps/dwjbiblio/index.html
+[Error - 4:40:30 PM] No config file for /opt/tomcat/webapps/dwj20201030/jsp/C09EscolaSituacaoAluno.jsp
+[Error - 4:40:31 PM] No config file for /opt/tomcat/webapps/dwj20201030/jsp/C06FormularioNomeSexo.jsp
+[Error - 4:40:38 PM] No config file for /opt/tomcat/webapps/dwjdb/C02ConexaoBdTeste.jsp
+[Error - 4:40:49 PM] No config file for /opt/tomcat/webapps/dwjsession/quiz.html
+[Error - 4:40:50 PM] No config file for /opt/tomcat/webapps/dwjsession/C20ItensCarrinho.jsp
+[Error - 4:40:50 PM] No config file for /opt/tomcat/webapps/dwjsession/C19Carrinho.jsp

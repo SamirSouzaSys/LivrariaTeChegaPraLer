@@ -141,3 +141,51 @@ Info 123  [15:24:35.14] Project '/dev/null/inferredProject1*' (Inferred)
 Info 124  [15:24:35.15] 	Files (6)
 
 Info 125  [15:24:35.16] -----------------------------------------------
+Info 126  [16:40:30.770] Search path: /opt/tomcat/webapps/dwj20201030/jsp
+Info 127  [16:40:30.778] For info: /opt/tomcat/webapps/dwj20201030/jsp/C09EscolaSituacaoAluno.jsp :: No config files found.
+Info 128  [16:40:30.781] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 129  [16:40:30.789] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 18 structureChanged: true Elapsed: 8ms
+Info 130  [16:40:30.789] Project '/dev/null/inferredProject1*' (Inferred)
+Info 131  [16:40:30.789] 	Files (6)
+
+Info 132  [16:40:30.789] -----------------------------------------------
+Info 133  [16:40:31.947] Search path: /opt/tomcat/webapps/dwj20201030/jsp
+Info 134  [16:40:31.947] For info: /opt/tomcat/webapps/dwj20201030/jsp/C06FormularioNomeSexo.jsp :: No config files found.
+Info 135  [16:40:31.948] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 136  [16:40:31.958] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 19 structureChanged: true Elapsed: 10ms
+Info 137  [16:40:31.958] Project '/dev/null/inferredProject1*' (Inferred)
+Info 138  [16:40:31.958] 	Files (6)
+
+Info 139  [16:40:31.958] -----------------------------------------------
+Info 140  [16:40:38.452] Search path: /opt/tomcat/webapps/dwjdb
+Info 141  [16:40:38.453] For info: /opt/tomcat/webapps/dwjdb/C02ConexaoBdTeste.jsp :: No config files found.
+Info 142  [16:40:38.453] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 143  [16:40:38.461] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 20 structureChanged: true Elapsed: 8ms
+Info 144  [16:40:38.462] Project '/dev/null/inferredProject1*' (Inferred)
+Info 145  [16:40:38.463] 	Files (6)
+
+Info 146  [16:40:38.463] -----------------------------------------------
+Info 147  [16:40:49.648] Search path: /opt/tomcat/webapps/dwjsession
+Info 148  [16:40:49.649] For info: /opt/tomcat/webapps/dwjsession/quiz.html :: No config files found.
+Info 149  [16:40:49.649] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 150  [16:40:49.663] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 21 structureChanged: true Elapsed: 14ms
+Info 151  [16:40:49.663] Project '/dev/null/inferredProject1*' (Inferred)
+Info 152  [16:40:49.664] 	Files (6)
+
+Info 153  [16:40:49.664] -----------------------------------------------
+Info 154  [16:40:50.197] Search path: /opt/tomcat/webapps/dwjsession
+Info 155  [16:40:50.198] For info: /opt/tomcat/webapps/dwjsession/C20ItensCarrinho.jsp :: No config files found.
+Info 156  [16:40:50.198] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 157  [16:40:50.212] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 22 structureChanged: true Elapsed: 14ms
+Info 158  [16:40:50.215] Project '/dev/null/inferredProject1*' (Inferred)
+Info 159  [16:40:50.216] 	Files (6)
+
+Info 160  [16:40:50.216] -----------------------------------------------
+Info 161  [16:40:50.698] Search path: /opt/tomcat/webapps/dwjsession
+Info 162  [16:40:50.699] For info: /opt/tomcat/webapps/dwjsession/C19Carrinho.jsp :: No config files found.
+Info 163  [16:40:50.699] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 164  [16:40:50.705] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 23 structureChanged: true Elapsed: 6ms
+Info 165  [16:40:50.705] Project '/dev/null/inferredProject1*' (Inferred)
+Info 166  [16:40:50.705] 	Files (6)
+
+Info 167  [16:40:50.705] -----------------------------------------------

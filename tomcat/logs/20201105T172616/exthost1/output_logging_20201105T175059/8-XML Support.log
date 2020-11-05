@@ -1,0 +1,8 @@
+nov 05, 2020 5:50:59 PM org.eclipse.lemminx.XMLLanguageServer initialize
+INFO: Initializing XML Language server
+LemMinX Server info:
+ - Version : 0.13.1
+ - Java : /home/samirsouza/java/jdk1.8.0_251/jre
+ - Git 3c6c0de - [maven-release-plugin] prepare release 0.13.1
+[Warn  - 5:53:54 PM] Nov 05, 2020 05:53:54 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation()
+Message: Unmatched cancel notification for request id 19

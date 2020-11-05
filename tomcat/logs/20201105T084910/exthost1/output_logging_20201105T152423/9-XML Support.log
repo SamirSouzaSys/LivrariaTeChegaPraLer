@@ -8,3 +8,7 @@ LemMinX Server info:
 Message: Unsupported notification method: $/setTraceNotification
 [Info  - 4:21:20 PM] Nov 05, 2020 04:21:20 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify()
 Message: Unsupported notification method: $/setTraceNotification
+[Info  - 4:42:17 PM] Nov 05, 2020 04:42:17 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify()
+Message: Unsupported notification method: $/setTraceNotification
+[Info  - 4:42:17 PM] Nov 05, 2020 04:42:17 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify()
+Message: Unsupported notification method: $/setTraceNotification

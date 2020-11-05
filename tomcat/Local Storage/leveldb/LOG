@@ -1,1 +1,3 @@
-2020/11/05-08:49:10.223 1c30 Reusing MANIFEST /opt/tomcat/webapps/teChegaPraLer/tomcat/Local Storage/leveldb/MANIFEST-000001
+2020/11/05-17:26:16.860 d0c Reusing MANIFEST /opt/tomcat/webapps/teChegaPraLer/tomcat/Local Storage/leveldb/MANIFEST-000001
+2020/11/05-17:26:16.860 d0c Recovering log #3
+2020/11/05-17:26:16.860 d0c Reusing old log /opt/tomcat/webapps/teChegaPraLer/tomcat/Local Storage/leveldb/000003.log 

@@ -39,7 +39,40 @@
             <input type="submit" value="Pesquisar / Resetar" >
         </form>
         <hr>
+            <%
+            String mensagem = (String)request.getAttribute("resultAdicaoLivro");
+                if( mensagem != null ){
+                    %> <h3> <%= mensagem %> </h3> <%
+                } %>
+            <label><strong>Adicionar Livro</strong></label><br>
 
+            <form method="post" action="adminLivrosAdicionar">
+                <label>Titulo</label>
+                <input type="text" placeholder="digite aqui o Titulo" name="tituloLivro"> <br>
+
+                <label>Autor</label>
+                <input type="text" placeholder="digite aqui o autor" name="autorLivro"><br>
+
+                <label>Ano</label>
+                <input type="text" placeholder="digite aqui o ano" name="anoLivro"><br>
+
+                <label>Preço</label>
+                <input type="text" placeholder="digite aqui o Preço" name="precoLivro"><br>
+
+                <label>Quantidade</label>
+                <input type="text" placeholder="digite aqui a Quantidade de exemplares" name="quantidadeLivro"><br>
+
+                <label>Tipo</label>
+                <input type="text" placeholder="digite aqui o Tipo" name="tipoLivro"><br>
+
+                <label>EditoraId</label>
+                <input type="text" placeholder="digite aqui o Id da editora" name="editoraIdLivro"><br>
+
+                <label>Link para imagem</label>
+                <input type="text" placeholder="digite aqui o link para a imagem" name="linkImagem"><br>
+
+                <input type="submit" value="Adicionar" >
+        </form>
         <hr>
         <%
         Livro livro;

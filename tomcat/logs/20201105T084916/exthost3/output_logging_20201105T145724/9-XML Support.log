@@ -14,3 +14,9 @@ Message: Unsupported notification method: $/setTraceNotification
 Message: Unsupported notification method: $/setTraceNotification
 [Info  - 4:21:20 PM] Nov 05, 2020 04:21:20 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify()
 Message: Unsupported notification method: $/setTraceNotification
+[Warn  - 4:31:35 PM] Nov 05, 2020 04:31:35 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation()
+Message: Unmatched cancel notification for request id 791
+[Info  - 4:42:16 PM] Nov 05, 2020 04:42:16 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify()
+Message: Unsupported notification method: $/setTraceNotification
+[Info  - 4:42:17 PM] Nov 05, 2020 04:42:17 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify()
+Message: Unsupported notification method: $/setTraceNotification

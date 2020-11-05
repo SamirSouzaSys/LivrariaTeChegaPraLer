@@ -1,0 +1,9 @@
+[Info  - 5:53:52 PM] Angular language server process ID: 9671
+[Info  - 5:53:52 PM] Using typescript/lib/tsserverlibrary v4.0.2 from /home/samirsouza/.vscode/extensions/angular.ng-template-0.1001.1/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 5:53:52 PM] Using @angular/language-service v10.2.1 from /home/samirsouza/.vscode/extensions/angular.ng-template-0.1001.1/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 5:53:52 PM] Log file: /opt/tomcat/webapps/teChegaPraLer/tomcat/logs/20201105T172616/exthost1/Angular.ng-template/nglangsvc.log
+[Error - 5:53:54 PM] No config file for /opt/tomcat/webapps/teChegaPraLer/AdminLivros.jsp
+[Error - 5:54:18 PM] No config file for /opt/tomcat/webapps/teChegaPraLer/AdminLivros.jsp
+[Error - 5:58:07 PM] No config file for /opt/tomcat/webapps/teChegaPraLer/AdminHome.jsp
+[Error - 6:28:11 PM] No config file for /opt/tomcat/webapps/teChegaPraLer/AdminLivros.jsp
+[Error - 6:41:48 PM] No config file for /opt/tomcat/webapps/teChegaPraLer/AdminEditoras.jsp
