@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/opt/tomcat/webapps/teChegaPraLer/tomcat/User/workspaceStorage/c03a87a6ec18241a7b018db23bb77e88/redhat.java/.4cbbb097a285437943ae6ddfeb42e2421fbcada8-audit.json",
+    "files": [
+        {
+            "date": 1604577181868,
+            "name": "/opt/tomcat/webapps/teChegaPraLer/tomcat/User/workspaceStorage/c03a87a6ec18241a7b018db23bb77e88/redhat.java/client.log.2020-11-05",
+            "hash": "bfc9c0ddb44622b6aa790eaf224aaf4c"
+        }
+    ]
+}

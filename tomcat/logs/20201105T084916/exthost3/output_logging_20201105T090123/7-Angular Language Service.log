@@ -1,0 +1,5 @@
+[Info  - 9:01:23 AM] Angular language server process ID: 12303
+[Info  - 9:01:23 AM] Using typescript/lib/tsserverlibrary v4.0.2 from /home/samirsouza/.vscode/extensions/angular.ng-template-0.1001.1/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 9:01:23 AM] Using @angular/language-service v10.2.1 from /home/samirsouza/.vscode/extensions/angular.ng-template-0.1001.1/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 9:01:23 AM] Log file: /opt/tomcat/webapps/teChegaPraLer/tomcat/logs/20201105T084916/exthost3/Angular.ng-template/nglangsvc.log
+[Error - 9:01:25 AM] No config file for /opt/tomcat/webapps/teChegaPraLer/index.jsp

@@ -1,0 +1,5 @@
+[2020-11-05 08:51:27.259] [renderer1] [error] Git error
+[2020-11-05 08:51:28.822] [renderer1] [error] Git error
+[2020-11-05 08:51:30.432] [renderer1] [error] Git error
+[2020-11-05 08:51:31.489] [renderer1] [error] Git error
+[2020-11-05 09:11:52.247] [renderer1] [error] Java 11 or more recent is required to run the Java extension. Please download and install a recent JDK. You can still compile your projects with older JDKs by configuring [`java.configuration.runtimes`](https://github.com/redhat-developer/vscode-java/wiki/JDK-Requirements#java.configuration.runtimes)

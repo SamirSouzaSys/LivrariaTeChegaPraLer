@@ -1,0 +1,8 @@
+[Info  - 9:13:15 AM] Angular language server process ID: 19729
+[Info  - 9:13:15 AM] Using typescript/lib/tsserverlibrary v4.0.2 from /home/samirsouza/.vscode/extensions/angular.ng-template-0.1001.1/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 9:13:15 AM] Using @angular/language-service v10.2.1 from /home/samirsouza/.vscode/extensions/angular.ng-template-0.1001.1/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 9:13:15 AM] Log file: /opt/tomcat/webapps/teChegaPraLer/tomcat/logs/20201105T084910/exthost1/Angular.ng-template/nglangsvc.log
+[Error - 9:13:17 AM] No config file for /opt/tomcat/webapps/dwjmv/listar_contatos.jsp
+[Error - 9:14:42 AM] No config file for /opt/tomcat/webapps/dwjbiblio/index.html
+[Error - 9:14:44 AM] No config file for /opt/tomcat/webapps/dwjbiblio/extrato.jsp
+[Error - 9:49:19 AM] No config file for /opt/tomcat/webapps/dwjbiblio/extrato.jsp
