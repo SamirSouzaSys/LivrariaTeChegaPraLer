@@ -1,6 +1,7 @@
 package model;
 
 import java.sql.*;
+import java.util.*;
 
 public class Usuario {
     private Connection con;
@@ -53,6 +54,43 @@ public class Usuario {
         }
     }
 
+    public ArrayList listarUsuarios(String buscarUsuarioNome)  {
+        ArrayList colecao = new ArrayList();
+        
+        String sqlPesquisa = " ";
+        if(buscarUsuarioNome != null)
+            sqlPesquisa = " where nome like '%" + buscarUsuarioNome + "%' ";
+
+        try {
+            ps = con.prepareStatement("SELECT  idUsuario,"
+                        + " nome, "
+                        + " login, "
+                        + " senha "
+                    + " FROM Usuario "
+                    + sqlPesquisa);
+
+            rs = ps.executeQuery();
+            
+            Usuario u;
+
+            while( rs.next()){
+                u = new Usuario();
+
+                u.idUsuario    = rs.getInt("idUsuario");
+                u.nomeUsuario  = rs.getString("nome");
+                u.loginUsuario = rs.getString("login");
+                u.senhaUsuario = rs.getString("senha");
+
+                colecao.add(u);
+            }
+            return colecao;
+
+        } catch (Exception e) {
+            e.printStackTrace();
+            return null;
+        }
+    }
+
     public int getId() {
         return idUsuario;
     }
@@ -63,5 +101,9 @@ public class Usuario {
 
     public String getLogin() {
         return loginUsuario;
+    }
+
+    public String getSenha() {
+        return senhaUsuario;
     }
 }

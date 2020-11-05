@@ -64,3 +64,10 @@
 [2020-11-05 09:02:19.464] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.node-debug/dist/extension.js
 [2020-11-05 09:02:21.719] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
 [2020-11-05 09:02:21.720] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-server-ready/dist/extension
+[2020-11-05 14:57:23.214] [exthost] [info] ExtensionService#_doActivateExtension DotJoshJohnson.xml {"startup":false,"extensionId":{"value":"DotJoshJohnson.xml","_lower":"dotjoshjohnson.xml"},"activationEvent":"onLanguage:xml"}
+[2020-11-05 14:57:23.218] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/samirsouza/.vscode/extensions/dotjoshjohnson.xml-2.5.1/out/extension
+[2020-11-05 14:57:23.605] [exthost] [info] ExtensionService#_doActivateExtension redhat.vscode-xml {"startup":false,"extensionId":{"value":"redhat.vscode-xml","_lower":"redhat.vscode-xml"},"activationEvent":"onLanguage:xml"}
+[2020-11-05 14:57:23.606] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/samirsouza/.vscode/extensions/redhat.vscode-xml-0.13.0/dist/extension
+[2020-11-05 14:57:23.630] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-maven {"startup":false,"extensionId":{"value":"vscjava.vscode-maven","_lower":"vscjava.vscode-maven"},"activationEvent":"onLanguage:xml"}
+[2020-11-05 14:57:23.631] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/samirsouza/.vscode/extensions/vscjava.vscode-maven-0.25.0/dist/extension
+[2020-11-05 14:57:24.772] [exthost] [warning] [redhat.vscode-xml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[xml]', provide the URI of a resource or 'null' for any resource.

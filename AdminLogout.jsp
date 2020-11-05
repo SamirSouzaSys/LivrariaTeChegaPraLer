@@ -11,7 +11,7 @@
             // response.sendRedirect("index.html");
         %>
 
-        <a href="index.jsp">Home</a>
+        <a href="/teChegaPraLer/">Home</a>
         <hr>
         <h2>Te chega pra ler</h2>
         <h3>Sua Sessão foi finalizada ou o seu Login/Senha está(ão) incorretos</h3>

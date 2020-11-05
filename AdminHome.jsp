@@ -28,10 +28,12 @@
         <hr>
         <h3>Você deseja gerenciar qual destes?</h3>
         <p>*Gerenciar(Pesquisar, Adicionar, Atualizar e Excluir)</p>
-        <a href="AdminLivros.jsp">Livros</a>
+        <a href="adminLivros">Livros</a>
         <br>
-        <a href="AdminEditoras.jsp">Editoras</a>
+        <a href="adminEditoras">Editoras</a>
         <br>
-        <a href="AdminUsuarios.jsp">Usuários</a>
+        <a href="adminUsuarios">Usuários</a>
+
+        
     </body>
 </html>

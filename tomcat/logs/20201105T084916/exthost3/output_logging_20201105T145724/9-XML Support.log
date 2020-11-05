@@ -1,0 +1,16 @@
+nov 05, 2020 2:57:24 PM org.eclipse.lemminx.XMLLanguageServer initialize
+INFO: Initializing XML Language server
+LemMinX Server info:
+ - Version : 0.13.1
+ - Java : /home/samirsouza/java/jdk1.8.0_251/jre
+ - Git 3c6c0de - [maven-release-plugin] prepare release 0.13.1
+[Info  - 3:20:21 PM] Nov 05, 2020 03:20:21 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify()
+Message: Unsupported notification method: $/setTraceNotification
+[Info  - 3:20:21 PM] Nov 05, 2020 03:20:21 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify()
+Message: Unsupported notification method: $/setTraceNotification
+[Info  - 3:20:23 PM] Nov 05, 2020 03:20:23 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify()
+Message: Unsupported notification method: $/setTraceNotification
+[Info  - 3:55:33 PM] Nov 05, 2020 03:55:33 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify()
+Message: Unsupported notification method: $/setTraceNotification
+[Info  - 4:21:20 PM] Nov 05, 2020 04:21:20 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify()
+Message: Unsupported notification method: $/setTraceNotification

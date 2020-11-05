@@ -15,6 +15,33 @@ PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
     </servlet-mapping>
 
     <servlet>
+        <servlet-name>AdminLivros</servlet-name>
+        <servlet-class>controller.ServletLivrosAdmin</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AdminLivros</servlet-name>
+        <url-pattern>/adminLivros</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>AdminUsuarios</servlet-name>
+        <servlet-class>controller.ServletUsuariosAdmin</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AdminUsuarios</servlet-name>
+        <url-pattern>/adminUsuarios</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>AdminEditoras</servlet-name>
+        <servlet-class>controller.ServletEditorasAdmin</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AdminEditoras</servlet-name>
+        <url-pattern>/adminEditoras</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
         <servlet-name>Home</servlet-name>
         <servlet-class>controller.ServletLivros</servlet-class>
     </servlet>

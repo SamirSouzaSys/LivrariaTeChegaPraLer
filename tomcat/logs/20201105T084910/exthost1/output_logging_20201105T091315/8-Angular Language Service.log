@@ -6,3 +6,15 @@
 [Error - 9:14:42 AM] No config file for /opt/tomcat/webapps/dwjbiblio/index.html
 [Error - 9:14:44 AM] No config file for /opt/tomcat/webapps/dwjbiblio/extrato.jsp
 [Error - 9:49:19 AM] No config file for /opt/tomcat/webapps/dwjbiblio/extrato.jsp
+[Error - 10:19:46 AM] No config file for /opt/tomcat/webapps/dwjbiblio/noautenticacao.html
+[Error - 10:19:47 AM] No config file for /opt/tomcat/webapps/dwjbiblio/reservado.html
+[Error - 10:19:50 AM] No config file for /opt/tomcat/webapps/dwjbiblio/autenticacao.jsp
+[Error - 10:19:59 AM] No config file for /opt/tomcat/webapps/dwjbiblio/index.html
+[Error - 3:19:09 PM] No config file for /opt/tomcat/webapps/dwjsession/C12Login.jsp
+[Error - 3:19:16 PM] No config file for /opt/tomcat/webapps/dwjsession/C13Vitrine.jsp
+[Error - 3:19:17 PM] No config file for /opt/tomcat/webapps/dwjsession/C17Login2.jsp
+[Error - 3:20:11 PM] No config file for /opt/tomcat/webapps/dwjmv/index.html
+[Error - 3:20:13 PM] No config file for /opt/tomcat/webapps/dwjmv/listar_contatos.jsp
+[Error - 3:24:26 PM] No config file for /opt/tomcat/webapps/dwjmv/index.html
+[Error - 3:24:27 PM] No config file for /opt/tomcat/webapps/dwjmv/listar_contatos.jsp
+[Error - 3:24:35 PM] No config file for /opt/tomcat/webapps/dwjbiblio/index.html

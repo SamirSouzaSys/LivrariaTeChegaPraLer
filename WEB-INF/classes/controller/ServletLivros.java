@@ -9,6 +9,8 @@ import java.util.*;
 public class ServletLivros extends HttpServlet{
     public void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 
+        String livroTitulo = req.getParameter("livroTitulo");
+
 		ConexaoBd conexao = new ConexaoBd();
 		conexao.conectar();
 
@@ -17,7 +19,7 @@ public class ServletLivros extends HttpServlet{
         
         ArrayList colecao;
 
-        colecao = livro.listarLivros();
+        colecao = livro.listarLivros(livroTitulo);
 
         req.setAttribute("colecaoLivros", colecao);
 

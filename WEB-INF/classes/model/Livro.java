@@ -17,13 +17,18 @@ public class Livro {
     private String tipoLivro;
     private int editoraIdLivro;
     private String editoraNomeLivro;
-    
+    private String imagemLivro;
+
     public void setConexao(Connection con) {
         this.con = con;
     }
 
-    public ArrayList listarLivros()  {
+    public ArrayList listarLivros(String buscarLivroTitulo)  {
         ArrayList colecao = new ArrayList();
+        
+        String sqlPesquisa = " ";
+        if(buscarLivroTitulo != null)
+            sqlPesquisa = " where  titulo like '%" + buscarLivroTitulo + "%' ";
 
         try {
             ps = con.prepareStatement("SELECT  acevo.id,"
@@ -34,10 +39,12 @@ public class Livro {
                         + " quantidade, "
                         + " tipo, "
                         + " idEditora, "
-                        + " editora.nome as editoraNome"
+                        + " editora.nome as editoraNome,"
+                        + " imagem"
                     + " FROM acevo "
                     + " LEFT JOIN editora "
-                    + " ON acevo.idEditora = editora.id ");
+                    + " ON acevo.idEditora = editora.id "
+                    + sqlPesquisa);
             
             rs = ps.executeQuery();
             
@@ -55,6 +62,7 @@ public class Livro {
                 l.tipoLivro        = rs.getString("tipo");
                 l.editoraIdLivro   = rs.getInt("idEditora");
                 l.editoraNomeLivro = rs.getString("editoraNome") ;
+                l.imagemLivro      = rs.getString("imagem") ;
 
                 colecao.add(l);
             }
@@ -84,4 +92,6 @@ public class Livro {
         return editoraIdLivro;}
     public String getNomeEditora() {
         return editoraNomeLivro;}
+    public String getImagemLivro() {
+        return imagemLivro;}
 }

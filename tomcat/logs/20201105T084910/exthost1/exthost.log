@@ -79,3 +79,8 @@
 [2020-11-05 09:13:14.714] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
 [2020-11-05 09:13:14.736] [exthost] [info] ExtensionService#_doActivateExtension Angular.ng-template {"startup":false,"extensionId":{"value":"Angular.ng-template","_lower":"angular.ng-template"},"activationEvent":"onLanguage:html"}
 [2020-11-05 09:13:14.737] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/samirsouza/.vscode/extensions/angular.ng-template-0.1001.1/client
+[2020-11-05 15:24:23.254] [exthost] [info] ExtensionService#_doActivateExtension DotJoshJohnson.xml {"startup":false,"extensionId":{"value":"DotJoshJohnson.xml","_lower":"dotjoshjohnson.xml"},"activationEvent":"onLanguage:xml"}
+[2020-11-05 15:24:23.259] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/samirsouza/.vscode/extensions/dotjoshjohnson.xml-2.5.1/out/extension
+[2020-11-05 15:24:23.542] [exthost] [info] ExtensionService#_doActivateExtension redhat.vscode-xml {"startup":false,"extensionId":{"value":"redhat.vscode-xml","_lower":"redhat.vscode-xml"},"activationEvent":"onLanguage:xml"}
+[2020-11-05 15:24:23.542] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/samirsouza/.vscode/extensions/redhat.vscode-xml-0.13.0/dist/extension
+[2020-11-05 15:24:24.047] [exthost] [warning] [redhat.vscode-xml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[xml]', provide the URI of a resource or 'null' for any resource.
