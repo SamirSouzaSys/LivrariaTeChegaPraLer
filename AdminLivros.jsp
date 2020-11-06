@@ -5,7 +5,7 @@
 
 <html>
     <head>
-        <meta charset="UTF-8">
+        <!-- <meta charset="UTF-8"> -->
         <title>Te Chega Pra Ler</title>
     </head>
     <body>
@@ -40,9 +40,9 @@
         </form>
         <hr>
             <%
-            String mensagem = (String)request.getAttribute("resultAdicaoLivro");
-                if( mensagem != null ){
-                    %> <h3> <%= mensagem %> </h3> <%
+            String mensagemAdicao = (String)request.getAttribute("resultAdicaoLivro");
+                if( mensagemAdicao != null ){
+                    %> <h3> <%= mensagemAdicao %> </h3> <%
                 } %>
             <label><strong>Adicionar Livro</strong></label><br>
 
@@ -75,6 +75,11 @@
         </form>
         <hr>
         <%
+            String mensagemEdicao = (String)request.getAttribute("resultEdicaoLivro");
+                if( mensagemEdicao != null ){
+                    %> <h3> <%= mensagemEdicao %> </h3> <%
+                } %>
+        <%
         Livro livro;
 
         ArrayList colecao = (ArrayList)request.getAttribute("colecaoLivros");        
@@ -97,6 +102,7 @@
                     <label><strong>Editora</strong> <%= livro.getQuantidade() %> </label> <br>
                     <label><strong>Tipo</strong> <%= livro.getTipo() %> </label> <br>
                     <label><strong>id da Editora</strong> <%= livro.getIdEditora() %> </label>
+                    <a href="adminLivrosEditar?livroId=<%=livro.getId()%>">Editar</a>
 
                 </div>
             <%

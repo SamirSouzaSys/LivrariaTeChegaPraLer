@@ -1,0 +1,57 @@
+Info 0    [20:51:23.56] Format host information updated
+Info 1    [20:51:23.58] reload projects.
+Info 2    [20:51:23.59] Before ensureProjectForOpenFiles:
+Info 3    [20:51:23.60] After ensureProjectForOpenFiles:
+Info 4    [20:51:23.60] Host file extension mappings updated
+Info 5    [20:51:23.134] Search path: /opt/tomcat/webapps/JSPLearning/dwj/codes/servlets
+Info 6    [20:51:23.135] For info: /opt/tomcat/webapps/JSPLearning/dwj/codes/servlets/c08b-situacao_aluno-request.jsp :: No config files found.
+Info 7    [20:51:23.137] Loading global plugin @angular/language-service
+Info 8    [20:51:23.137] Enabling plugin @angular/language-service from candidate paths: /home/samirsouza/.vscode/extensions/angular.ng-template-0.1001.1/server/node_modules/@angular/language-service/bundles/language-service.js,/home/samirsouza/.vscode/extensions/angular.ng-template-0.1001.1/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 9    [20:51:23.137] Loading @angular/language-service from /home/samirsouza/.vscode/extensions/angular.ng-template-0.1001.1/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /home/samirsouza/.vscode/extensions/angular.ng-template-0.1001.1/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 10   [20:51:23.222] Plugin validation succeded
+Info 11   [20:51:23.225] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 12   [20:51:24.565] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 1340ms
+Info 13   [20:51:24.570] Project '/dev/null/inferredProject1*' (Inferred)
+Info 14   [20:51:24.571] 	Files (6)
+
+Info 15   [20:51:24.572] -----------------------------------------------
+Info 16   [20:51:32.498] Search path: /opt/tomcat/webapps/JSPLearning/dwj/codes/servlets
+Info 17   [20:51:32.499] For info: /opt/tomcat/webapps/JSPLearning/dwj/codes/servlets/c08a-situacao_aluno-request.jsp :: No config files found.
+Info 18   [20:51:32.500] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 19   [20:51:32.511] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: true Elapsed: 10ms
+Info 20   [20:51:32.511] Project '/dev/null/inferredProject1*' (Inferred)
+Info 21   [20:51:32.511] 	Files (6)
+
+Info 22   [20:51:32.511] -----------------------------------------------
+Info 23   [20:51:33.863] Search path: /opt/tomcat/webapps/JSPLearning/dwj/codes/servlets
+Info 24   [20:51:33.864] For info: /opt/tomcat/webapps/JSPLearning/dwj/codes/servlets/c05nome-request-if-charAt.jsp :: No config files found.
+Info 25   [20:51:33.868] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 26   [20:51:33.875] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: true Elapsed: 7ms
+Info 27   [20:51:33.875] Project '/dev/null/inferredProject1*' (Inferred)
+Info 28   [20:51:33.875] 	Files (6)
+
+Info 29   [20:51:33.875] -----------------------------------------------
+Info 30   [20:51:42.665] Search path: /opt/tomcat/webapps/JSPLearning/dwj/login
+Info 31   [20:51:42.666] For info: /opt/tomcat/webapps/JSPLearning/dwj/login/login.jsp :: No config files found.
+Info 32   [20:51:42.666] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 33   [20:51:42.692] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: true Elapsed: 26ms
+Info 34   [20:51:42.693] Project '/dev/null/inferredProject1*' (Inferred)
+Info 35   [20:51:42.693] 	Files (6)
+
+Info 36   [20:51:42.700] -----------------------------------------------
+Info 37   [20:52:32.246] Search path: /opt/tomcat/webapps/dwjmv
+Info 38   [20:52:32.247] For info: /opt/tomcat/webapps/dwjmv/listar_contatos.jsp :: No config files found.
+Info 39   [20:52:32.247] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 40   [20:52:32.259] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: true Elapsed: 12ms
+Info 41   [20:52:32.261] Project '/dev/null/inferredProject1*' (Inferred)
+Info 42   [20:52:32.261] 	Files (6)
+
+Info 43   [20:52:32.261] -----------------------------------------------
+Info 44   [20:52:44.845] Search path: /opt/tomcat/webapps/dwjmv
+Info 45   [20:52:44.846] For info: /opt/tomcat/webapps/dwjmv/index.html :: No config files found.
+Info 46   [20:52:44.846] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 47   [20:52:44.856] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 6 structureChanged: true Elapsed: 10ms
+Info 48   [20:52:44.859] Project '/dev/null/inferredProject1*' (Inferred)
+Info 49   [20:52:44.860] 	Files (6)
+
+Info 50   [20:52:44.861] -----------------------------------------------

@@ -49,6 +49,49 @@ public class Editora {
         }
     }
 
+    public boolean adicionarEditora(String nomeEditora){
+        try {
+            int id = gerarId();
+
+            ps = con.prepareStatement("INSERT INTO editora(id,nome) VALUES (?, ?)");
+            
+            ps.setInt(1, id);
+            ps.setString(2, nomeEditora);
+
+            ps.executeUpdate();
+            
+            return true;
+        }
+        catch (Exception e)
+        {
+            e.printStackTrace();
+            return false;
+        }
+    }
+
+    public int gerarId() {
+        String novoId;
+
+        try {
+            ps = con.prepareStatement("SELECT MAX(id) as maiorId FROM editora");
+            rs = ps.executeQuery();
+            rs.next();
+            
+            novoId = rs.getString("maiorId");
+
+            if (novoId == null)
+                return 1;
+            else
+                return Integer.parseInt(novoId) + 1;
+        }
+        catch (Exception e)
+        {
+            e.printStackTrace();
+            return 0;
+        }
+    }
+
+
     public int getId() {
         return idEditora;
     }

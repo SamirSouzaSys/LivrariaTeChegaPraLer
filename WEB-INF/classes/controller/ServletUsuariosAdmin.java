@@ -19,27 +19,49 @@ public class ServletUsuariosAdmin extends HttpServlet{
         usuario.setConexao(conexao.getConexao());
         
         ArrayList colecao;
-
+        
         colecao = usuario.listarUsuarios(usuarioNome);
-
         req.setAttribute("colecaoUsuarios", colecao);
 
         RequestDispatcher view = req.getRequestDispatcher("AdminUsuarios.jsp");
         
         view.forward(req, resp);
+    }
 
-		// if (usuario.autenticar(loginUsuario, senhaUsuario) == 1) {
-		// 	HttpSession sessao = req.getSession();
-		// 	sessao.setAttribute("idUsuario", String.valueOf(usuario.getId()));
-        //     sessao.setAttribute("nomeUsuario", usuario.getNome());
-        //     sessao.setAttribute("loginUsuario", usuario.getLogin());
+    // Adicionar Usuarios - Administrador
+    public void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 
-		// 	view = req.getRequestDispatcher("AdminHome.jsp");
-		// } else{
-		// 	view = req.getRequestDispatcher("AdminLogout.jsp");
-		// }
-		
-        // conexao.fechar();
-        // view.forward(req, resp);
+        // Adicionar Usuarios
+
+		ConexaoBd conexao = new ConexaoBd();
+		conexao.conectar();
+
+		Usuario usuario = new Usuario();
+		usuario.setConexao(conexao.getConexao());
+
+		String nomeUsuario  = req.getParameter("nomeUsuario");
+        String loginUsuario = req.getParameter("loginUsuario");
+        String senhaUsuario = req.getParameter("senhaUsuario");
+
+        String resultAdicaoUsuario = null;
+        
+		if (usuario.adicionarUsuario(nomeUsuario, loginUsuario, senhaUsuario) ) {
+            resultAdicaoUsuario = "Usuario adicionado com sucesso!";
+        } else {
+            resultAdicaoUsuario = "Falha ao adicionar o usuario!";
+        }
+        
+		req.setAttribute("resultAdicaoUsuario", resultAdicaoUsuario);
+        
+        ArrayList colecao;
+        
+        colecao = usuario.listarUsuarios(null);
+        req.setAttribute("colecaoUsuarios", colecao);
+
+        RequestDispatcher view = req.getRequestDispatcher("AdminUsuarios.jsp");
+
+
+        conexao.fechar();
+        view.forward(req, resp);
     }
 }

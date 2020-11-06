@@ -38,7 +38,27 @@
             <input type="text" placeholder="digite aqui o nome do usuário desejado" name="usuarioNome">
             <input type="submit" value="Pesquisar / Resetar" >
         </form>
+
         <hr>
+        <%
+        String mensagemAdicao = (String)request.getAttribute("resultAdicaoUsuario");
+            if( mensagemAdicao != null ){
+                %> <h3> <%= mensagemAdicao %> </h3> <%
+            } %>
+        <label><strong>Adicionar Usuario</strong></label><br>
+
+        <form method="post" action="adminUsuariosAdicionar">
+            <label>Nome</label>
+            <input type="text" placeholder="digite aqui o Nome" name="nomeUsuario"> <br>
+
+            <label>Login</label>
+            <input type="text" placeholder="digite aqui o Login" name="loginUsuario"><br>
+
+            <label>Senha</label>
+            <input type="text" placeholder="digite aqui a senha" name="senhaUsuario"><br>
+
+            <input type="submit" value="Adicionar" >
+        </form>
 
         <hr>
         <%

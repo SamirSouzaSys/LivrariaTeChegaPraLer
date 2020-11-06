@@ -39,7 +39,19 @@
             <input type="submit" value="Pesquisar / Resetar" >
         </form>
         <hr>
+        <%
+        String mensagemAdicao = (String)request.getAttribute("resultAdicaoEditora");
+            if( mensagemAdicao != null ){
+                %> <h3> <%= mensagemAdicao %> </h3> <%
+            } %>
+        <label><strong>Adicionar Editora</strong></label><br>
 
+        <form method="post" action="adminEditorasAdicionar">
+            <label>Nome</label>
+            <input type="text" placeholder="digite aqui o Nome" name="nomeEditora"> <br>
+
+            <input type="submit" value="Adicionar" >
+        </form>
         <hr>
         <%
         Editora editora;

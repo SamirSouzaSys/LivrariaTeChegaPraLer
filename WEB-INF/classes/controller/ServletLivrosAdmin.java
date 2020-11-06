@@ -53,9 +53,9 @@ public class ServletLivrosAdmin extends HttpServlet{
         String resultAdicaoLivro = null;
         
 		if (livro.adicionarLivro(tituloLivro, autorLivro, anoLivro, precoLivro, quantidadeLivro, tipoLivro, editoraIdLivro, linkImagem) ) {
-            resultAdicaoLivro = "Livros adicionados com sucesso!";
+            resultAdicaoLivro = "Livro adicionado com sucesso!";
         } else {
-            resultAdicaoLivro = "Falha ao adicionar os livros!";
+            resultAdicaoLivro = "Falha ao adicionar o livro!";
         }
         
 		req.setAttribute("resultAdicaoLivro", resultAdicaoLivro);

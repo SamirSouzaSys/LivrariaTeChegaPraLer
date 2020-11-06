@@ -1,0 +1,10 @@
+[Info  - 8:51:23 PM] Angular language server process ID: 8969
+[Info  - 8:51:23 PM] Using typescript/lib/tsserverlibrary v4.0.2 from /home/samirsouza/.vscode/extensions/angular.ng-template-0.1001.1/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 8:51:23 PM] Using @angular/language-service v10.2.1 from /home/samirsouza/.vscode/extensions/angular.ng-template-0.1001.1/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 8:51:23 PM] Log file: /opt/tomcat/webapps/teChegaPraLer/tomcat/logs/20201105T172621/exthost3/Angular.ng-template/nglangsvc.log
+[Error - 8:51:24 PM] No config file for /opt/tomcat/webapps/JSPLearning/dwj/codes/servlets/c08b-situacao_aluno-request.jsp
+[Error - 8:51:32 PM] No config file for /opt/tomcat/webapps/JSPLearning/dwj/codes/servlets/c08a-situacao_aluno-request.jsp
+[Error - 8:51:33 PM] No config file for /opt/tomcat/webapps/JSPLearning/dwj/codes/servlets/c05nome-request-if-charAt.jsp
+[Error - 8:51:42 PM] No config file for /opt/tomcat/webapps/JSPLearning/dwj/login/login.jsp
+[Error - 8:52:32 PM] No config file for /opt/tomcat/webapps/dwjmv/listar_contatos.jsp
+[Error - 8:52:44 PM] No config file for /opt/tomcat/webapps/dwjmv/index.html

@@ -91,6 +91,50 @@ public class Usuario {
         }
     }
 
+    public boolean adicionarUsuario(String nomeUsuario, String loginUsuario, String senhaUsuario){
+        try {
+            int id = gerarId();
+
+            ps = con.prepareStatement("INSERT INTO Usuario(idUsuario,nome,login,senha) VALUES (?, ?, ?, ?)");
+            
+            ps.setInt(1, id);
+            ps.setString(2, nomeUsuario);
+            ps.setString(3, loginUsuario);
+            ps.setString(4, senhaUsuario);
+
+            ps.executeUpdate();
+            
+            return true;
+        }
+        catch (Exception e)
+        {
+            e.printStackTrace();
+            return false;
+        }
+    }
+
+    public int gerarId() {
+        String novoId;
+
+        try {
+            ps = con.prepareStatement("SELECT MAX(id) as maiorId FROM usuario");
+            rs = ps.executeQuery();
+            rs.next();
+            
+            novoId = rs.getString("maiorId");
+
+            if (novoId == null)
+                return 1;
+            else
+                return Integer.parseInt(novoId) + 1;
+        }
+        catch (Exception e)
+        {
+            e.printStackTrace();
+            return 0;
+        }
+    }
+
     public int getId() {
         return idUsuario;
     }
