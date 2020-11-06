@@ -14,7 +14,7 @@
         <a href="AdminLogout.jsp">Sair</a>
         <hr>
         <h2>Te chega pra ler</h2>
-        <h3>AdministraÃ§Ã£o</h3>
+        <h3>Administração</h3>
         <hr>
         <p>
             <%
@@ -59,7 +59,7 @@
         ArrayList colecao = (ArrayList)request.getAttribute("colecaoEditoras");        
         
         if ( colecao.size() < 0 ) {
-                out.println("<p>Nao hÃ¡ editoras cadastrados</p>");
+                out.println("<p>Nao há editoras cadastrados</p>");
         } else{        
             for ( int i=0; i < colecao.size(); i++ ) {
                 editora = (Editora)colecao.get(i);

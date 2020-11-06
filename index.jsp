@@ -14,7 +14,7 @@
         <h2>Te chega pra ler</h2>
         <form method="get" action="">
             <label>Pesquisar Livro</label>
-            <input type="text" placeholder="digite aqui o título do livro desejado" name="livroTitulo">
+            <input type="text" placeholder="digite aqui" name="livroTitulo">
             <input type="submit" value="Pesquisar / Resetar" >
         </form>
         <hr>
@@ -32,7 +32,7 @@
                 livro = (Livro)colecao.get(i);
                 %>
                 <div style="background-color:#FF19; width:140px; float:left; margin: 1em;">
-                    <img src="<%=livro.getImagemLivro()%>" width='80px'> <br>
+                    <img src="assets/imgs/<%=livro.getImagemLivro()%>" width='80px'> <br>
                     <label><strong>Livro <%=i+1%> </strong></label> <br>
                     <label><strong>Título</strong><%= livro.getTitulo()%>  </label> <br>
                     <label><strong>Autor</strong>  <%= livro.getAutor() %> </label> <br>

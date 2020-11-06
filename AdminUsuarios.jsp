@@ -14,7 +14,7 @@
         <a href="AdminLogout.jsp">Sair</a>
         <hr>
         <h2>Te chega pra ler</h2>
-        <h3>Administra√ß√£o</h3>
+        <h3>AdministraÁ„o</h3>
         <hr>
         <p>
             <%
@@ -29,13 +29,13 @@
             %>
         </p>
         <hr>
-        <h3>gerenciamento de Usu√°rios</h3>
+        <h3>gerenciamento de Usu·rios</h3>
         <p>*Gerenciar(Pesquisar, Adicionar, Atualizar e Excluir)</p>
         
         <hr>
         <form method="get" action="">
             <label>Pesquisar Usuario</label>
-            <input type="text" placeholder="digite aqui o nome do usu√°rio desejado" name="usuarioNome">
+            <input type="text" placeholder="digite aqui o nome do usu·rio desejado" name="usuarioNome">
             <input type="submit" value="Pesquisar / Resetar" >
         </form>
 
@@ -67,7 +67,7 @@
         ArrayList colecao = (ArrayList)request.getAttribute("colecaoUsuarios");        
         
         if ( colecao.size() < 0 ) {
-                out.println("<p>Nao h√° usu√°rios cadastrados</p>");
+                out.println("<p>Nao h· usu·rios cadastrados</p>");
         } else{        
             for ( int i=0; i < colecao.size(); i++ ) {
                 usuario = (Usuario)colecao.get(i);

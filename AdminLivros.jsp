@@ -14,7 +14,7 @@
         <a href="AdminLogout.jsp">Sair</a>
         <hr>
         <h2>Te chega pra ler</h2>
-        <h3>Administra√ß√£o</h3>
+        <h3>AdministraÁ„o</h3>
         <hr>
         <p>
             <%
@@ -35,7 +35,7 @@
         <hr>
         <form method="get" action="">
             <label>Pesquisar Livro</label>
-            <input type="text" placeholder="digite aqui o t√≠tulo do livro desejado" name="livroTitulo">
+            <input type="text" placeholder="digite aqui o tÌtulo do livro desejado" name="livroTitulo">
             <input type="submit" value="Pesquisar / Resetar" >
         </form>
         <hr>
@@ -56,8 +56,8 @@
                 <label>Ano</label>
                 <input type="text" placeholder="digite aqui o ano" name="anoLivro"><br>
 
-                <label>Pre√ßo</label>
-                <input type="text" placeholder="digite aqui o Pre√ßo" name="precoLivro"><br>
+                <label>PreÁo</label>
+                <input type="text" placeholder="digite aqui o PreÁo" name="precoLivro"><br>
 
                 <label>Quantidade</label>
                 <input type="text" placeholder="digite aqui a Quantidade de exemplares" name="quantidadeLivro"><br>
@@ -85,20 +85,20 @@
         ArrayList colecao = (ArrayList)request.getAttribute("colecaoLivros");        
         
         if ( colecao.size() < 0 ) {
-                out.println("<p>Nao h√° livros cadastrados</p>");
+                out.println("<p>Nao h· livros cadastrados</p>");
         } else{        
             for ( int i=0; i < colecao.size(); i++ ) {
                 livro = (Livro)colecao.get(i);
                 %>
                 <div style="background-color:#FF19; width:140px; float:left; margin: 1em;">
-                    <img src="<%=livro.getImagemLivro()%>" width='80px'> <br>
+                    <img src="assets/imgs/<%=livro.getImagemLivro()%>" width='80px'> <br>
                     <label><strong>Livro <%=i+1%> </strong></label> <br>
-                    <label><strong>T√≠tulo</strong><%= livro.getTitulo()%>  </label> <br>
+                    <label><strong>TÌtulo</strong><%= livro.getTitulo()%>  </label> <br>
                     <label><strong>Autor</strong>  <%= livro.getAutor() %> </label> <br>
                     <label><strong>Editora</strong> <%= livro.getNomeEditora() %> </label> <br>
                     <label><strong>Id do Livro</strong> <%= livro.getId() %> </label> <br>
                     <label><strong>Ano</strong> <%= livro.getAno() %> </label> <br>
-                    <label><strong>Pre√ßo</strong> <%= livro.getPreco() %> </label> <br>
+                    <label><strong>PreÁo</strong> <%= livro.getPreco() %> </label> <br>
                     <label><strong>Editora</strong> <%= livro.getQuantidade() %> </label> <br>
                     <label><strong>Tipo</strong> <%= livro.getTipo() %> </label> <br>
                     <label><strong>id da Editora</strong> <%= livro.getIdEditora() %> </label>

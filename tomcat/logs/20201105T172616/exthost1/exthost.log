@@ -57,3 +57,5 @@
 [2020-11-05 17:53:51.747] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
 [2020-11-05 17:53:51.791] [exthost] [info] ExtensionService#_doActivateExtension Angular.ng-template {"startup":false,"extensionId":{"value":"Angular.ng-template","_lower":"angular.ng-template"},"activationEvent":"onLanguage:html"}
 [2020-11-05 17:53:51.793] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/samirsouza/.vscode/extensions/angular.ng-template-0.1001.1/client
+[2020-11-05 22:53:55.281] [exthost] [info] ExtensionService#_doActivateExtension vscode.image-preview {"startup":false,"extensionId":{"value":"vscode.image-preview","_lower":"vscode.image-preview"},"activationEvent":"onCustomEditor:imagePreview.previewEditor"}
+[2020-11-05 22:53:55.283] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/image-preview/dist/extension

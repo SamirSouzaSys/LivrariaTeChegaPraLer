@@ -6,12 +6,12 @@
         <title>Te Chega Pra Ler</title>
     </head>
     <body>
-        <a href="index.jsp">Home</a>
+        <a href="/teChegaPraLer/">Home</a>
         <br>
         <a href="AdminLogout.jsp">Sair</a>
         <hr>
         <h2>Te chega pra ler</h2>
-        <h3>AdministraÃ§Ã£o</h3>
+        <h3>Administração</h3>
         <hr>
         <p>
             <%
@@ -26,13 +26,13 @@
             %>
         </p>
         <hr>
-        <h3>VocÃª deseja gerenciar qual destes?</h3>
+        <h3>Você deseja gerenciar qual destes?</h3>
         <p>*Gerenciar(Pesquisar, Adicionar, Atualizar e Excluir)</p>
         <a href="adminLivros">Livros</a>
         <br>
         <a href="adminEditoras">Editoras</a>
         <br>
-        <a href="adminUsuarios">UsuÃ¡rios</a>
+        <a href="adminUsuarios">Usuários</a>
 
         
     </body>
