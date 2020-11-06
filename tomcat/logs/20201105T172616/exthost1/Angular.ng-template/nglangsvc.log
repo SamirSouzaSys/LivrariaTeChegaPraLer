@@ -4035,3 +4035,67 @@ Info 4006 [23:6:28.765] Different program with same set of files:: oldProgram.st
 Info 4007 [23:6:35.377] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
 Info 4008 [23:6:35.388] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1299 structureChanged: false Elapsed: 11ms
 Info 4009 [23:6:35.388] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 4010 [23:17:21.471] Search path: /opt/tomcat/webapps/teChegaPraLer
+Info 4011 [23:17:21.472] For info: /opt/tomcat/webapps/teChegaPraLer/login.html :: No config files found.
+Info 4012 [23:17:21.472] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 4013 [23:17:21.476] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1300 structureChanged: true Elapsed: 4ms
+Info 4014 [23:17:21.476] Project '/dev/null/inferredProject1*' (Inferred)
+Info 4015 [23:17:21.476] 	Files (6)
+
+Info 4016 [23:17:21.476] -----------------------------------------------
+Info 4017 [23:17:22.959] Search path: /opt/tomcat/webapps/teChegaPraLer
+Info 4018 [23:17:22.961] For info: /opt/tomcat/webapps/teChegaPraLer/index.jsp :: No config files found.
+Info 4019 [23:17:22.962] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 4020 [23:17:22.968] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1301 structureChanged: true Elapsed: 6ms
+Info 4021 [23:17:22.969] Project '/dev/null/inferredProject1*' (Inferred)
+Info 4022 [23:17:22.969] 	Files (6)
+
+Info 4023 [23:17:22.969] -----------------------------------------------
+Info 4024 [23:17:30.856] Search path: /opt/tomcat/webapps/teChegaPraLer
+Info 4025 [23:17:30.857] For info: /opt/tomcat/webapps/teChegaPraLer/AdminUsuarios.jsp :: No config files found.
+Info 4026 [23:17:30.858] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 4027 [23:17:30.864] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1302 structureChanged: true Elapsed: 6ms
+Info 4028 [23:17:30.864] Project '/dev/null/inferredProject1*' (Inferred)
+Info 4029 [23:17:30.864] 	Files (6)
+
+Info 4030 [23:17:30.864] -----------------------------------------------
+Info 4031 [23:17:35.738] Search path: /opt/tomcat/webapps/teChegaPraLer
+Info 4032 [23:17:35.738] For info: /opt/tomcat/webapps/teChegaPraLer/AdminLogout.jsp :: No config files found.
+Info 4033 [23:17:35.738] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 4034 [23:17:35.748] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1303 structureChanged: true Elapsed: 10ms
+Info 4035 [23:17:35.748] Project '/dev/null/inferredProject1*' (Inferred)
+Info 4036 [23:17:35.748] 	Files (6)
+
+Info 4037 [23:17:35.748] -----------------------------------------------
+Info 4038 [23:17:37.280] Search path: /opt/tomcat/webapps/teChegaPraLer
+Info 4039 [23:17:37.281] For info: /opt/tomcat/webapps/teChegaPraLer/AdminLivrosEditar.jsp :: No config files found.
+Info 4040 [23:17:37.281] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 4041 [23:17:37.291] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1304 structureChanged: true Elapsed: 10ms
+Info 4042 [23:17:37.291] Project '/dev/null/inferredProject1*' (Inferred)
+Info 4043 [23:17:37.291] 	Files (6)
+
+Info 4044 [23:17:37.292] -----------------------------------------------
+Info 4045 [23:17:40.292] Search path: /opt/tomcat/webapps/teChegaPraLer
+Info 4046 [23:17:40.295] For info: /opt/tomcat/webapps/teChegaPraLer/AdminLivros.jsp :: No config files found.
+Info 4047 [23:17:40.295] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 4048 [23:17:40.301] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1305 structureChanged: true Elapsed: 6ms
+Info 4049 [23:17:40.302] Project '/dev/null/inferredProject1*' (Inferred)
+Info 4050 [23:17:40.302] 	Files (6)
+
+Info 4051 [23:17:40.302] -----------------------------------------------
+Info 4052 [23:17:44.500] Search path: /opt/tomcat/webapps/teChegaPraLer
+Info 4053 [23:17:44.501] For info: /opt/tomcat/webapps/teChegaPraLer/AdminHome.jsp :: No config files found.
+Info 4054 [23:17:44.501] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 4055 [23:17:44.505] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1306 structureChanged: true Elapsed: 4ms
+Info 4056 [23:17:44.505] Project '/dev/null/inferredProject1*' (Inferred)
+Info 4057 [23:17:44.505] 	Files (6)
+
+Info 4058 [23:17:44.505] -----------------------------------------------
+Info 4059 [23:17:46.157] Search path: /opt/tomcat/webapps/teChegaPraLer
+Info 4060 [23:17:46.158] For info: /opt/tomcat/webapps/teChegaPraLer/AdminEditoras.jsp :: No config files found.
+Info 4061 [23:17:46.158] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 4062 [23:17:46.167] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1307 structureChanged: true Elapsed: 9ms
+Info 4063 [23:17:46.167] Project '/dev/null/inferredProject1*' (Inferred)
+Info 4064 [23:17:46.167] 	Files (6)
+
+Info 4065 [23:17:46.167] -----------------------------------------------

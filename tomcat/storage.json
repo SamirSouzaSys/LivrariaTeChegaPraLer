@@ -13,7 +13,7 @@
             "backupPath": "/opt/tomcat/webapps/teChegaPraLer/tomcat/Backups/ac10e39dd6409be4b0522bc44c5dc2ab",
             "uiState": {
                 "mode": 0,
-                "x": 348,
+                "x": 451,
                 "y": 63,
                 "width": 514,
                 "height": 1047
@@ -25,7 +25,7 @@
                 "backupPath": "/opt/tomcat/webapps/teChegaPraLer/tomcat/Backups/ac10e39dd6409be4b0522bc44c5dc2ab",
                 "uiState": {
                     "mode": 0,
-                    "x": 348,
+                    "x": 451,
                     "y": 63,
                     "width": 514,
                     "height": 1047
@@ -141,11 +141,13 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save"
+                        "label": "&&Save",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As..."
+                        "label": "Save &&As...",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.files.saveAll",
@@ -220,11 +222,13 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File"
+                        "label": "Re&&vert File",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
-                        "label": "&&Close Editor"
+                        "label": "&&Close Editor",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeFolder",

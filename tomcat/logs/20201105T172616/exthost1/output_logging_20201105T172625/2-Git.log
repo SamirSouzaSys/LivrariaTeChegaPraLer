@@ -15956,3 +15956,516 @@ fatal: no upstream configured for branch 'master'
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname)
 > git remote --verbose
 > git config --get commit.template
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/WEB-INF/classes/model/Livro.java
+> git cat-file -s ce6be4816d9a3e5d0fa996e910ba33d3777a62c0
+> git show --textconv :WEB-INF/classes/model/Livro.java
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/WEB-INF/classes/model/Livro.java
+> git cat-file -s ce6be4816d9a3e5d0fa996e910ba33d3777a62c0
+> git show --textconv :WEB-INF/classes/model/Livro.java
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :README.md
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/README.md
+> git cat-file -s dd092c37d0bba9230d6708603024dfa8f037f1bb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :AdminLogout.jsp
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/AdminLogout.jsp
+> git cat-file -s 8a6b3a8d0bd4f712bfa6a68872b7f474b9c57fd8
+> git show --textconv :AdminLogout.jsp
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/AdminLogout.jsp
+> git cat-file -s 8a6b3a8d0bd4f712bfa6a68872b7f474b9c57fd8
+> git show --textconv :AdminUsuarios.jsp
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/AdminUsuarios.jsp
+> git cat-file -s 391bd7b69aeb31597cc686a5b047965c89f27e22
+> git show --textconv :AdminUsuarios.jsp
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/AdminUsuarios.jsp
+> git cat-file -s 391bd7b69aeb31597cc686a5b047965c89f27e22
+> git show --textconv :README.md
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/README.md
+> git cat-file -s dd092c37d0bba9230d6708603024dfa8f037f1bb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :login.html
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/login.html
+> git cat-file -s 41f5058a2366c28682b6de6b2f4864445271afd5
+> git show --textconv :index.jsp
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/index.jsp
+> git cat-file -s 84745a6a8b37653bf1a65897a0f944616e41680a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :AdminUsuarios.jsp
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/AdminUsuarios.jsp
+> git cat-file -s 391bd7b69aeb31597cc686a5b047965c89f27e22
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :AdminLogout.jsp
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/AdminLogout.jsp
+> git cat-file -s 8a6b3a8d0bd4f712bfa6a68872b7f474b9c57fd8
+> git show --textconv :AdminLivrosEditar.jsp
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/AdminLivrosEditar.jsp
+> git cat-file -s 53ef11b16a7ee0d88bbf72771cc6fd477f686497
+> git show --textconv :AdminLivros.jsp
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/AdminLivros.jsp
+> git cat-file -s 32fc259037f829d300d5dc6a893e9b0bc734d554
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :AdminHome.jsp
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/AdminHome.jsp
+> git cat-file -s 3a6d877265d7c333f11f8364a19b5b9075e4463c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :AdminEditoras.jsp
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/AdminEditoras.jsp
+> git cat-file -s 13e1def486cfa26b85d1e1121c41964621869f23
+> git show --textconv :WEB-INF/web.xml
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/WEB-INF/web.xml
+> git cat-file -s ba60860b26553961fc89aab99776bc04644b2afc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /opt/tomcat/webapps/teChegaPraLer/WEB-INF/classes/model/ConexaoBd.class
+> git show --textconv :WEB-INF/classes/model/ConexaoBd.java
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/WEB-INF/classes/model/ConexaoBd.java
+> git cat-file -s bbf6a69f53b69847813b644aa535d62ae35be6a5
+> git show --textconv :WEB-INF/classes/model/Editora.java
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/WEB-INF/classes/model/Editora.java
+> git cat-file -s c635ef42cd5cf73cff7b84497d98e982453430ae
+> git show --textconv :WEB-INF/classes/model/Livro.java
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/WEB-INF/classes/model/Livro.java
+> git cat-file -s ce6be4816d9a3e5d0fa996e910ba33d3777a62c0
+> git show --textconv :WEB-INF/classes/model/Usuario.java
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/WEB-INF/classes/model/Usuario.java
+> git cat-file -s a06cbfe8d3e66add6d982190c915e21f86f9119c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :WEB-INF/classes/model/Livro.java
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/WEB-INF/classes/model/Livro.java
+> git cat-file -s ce6be4816d9a3e5d0fa996e910ba33d3777a62c0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :WEB-INF/classes/model/Editora.java
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/WEB-INF/classes/model/Editora.java
+> git cat-file -s c635ef42cd5cf73cff7b84497d98e982453430ae
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :WEB-INF/classes/model/ConexaoBd.java
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/WEB-INF/classes/model/ConexaoBd.java
+> git cat-file -s bbf6a69f53b69847813b644aa535d62ae35be6a5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :WEB-INF/classes/controller/ServletAutenticacao.java
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/WEB-INF/classes/controller/ServletAutenticacao.java
+> git cat-file -s a38b2e6405bcc858b15243918fee73221f415bfd
+> git show --textconv :WEB-INF/classes/controller/ServletEditorasAdmin.java
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/WEB-INF/classes/controller/ServletEditorasAdmin.java
+> git cat-file -s faa2e7e768877233b06d86c9242253da27c72a9e
+> git show --textconv :WEB-INF/classes/controller/ServletLivros.java
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/WEB-INF/classes/controller/ServletLivros.java
+> git cat-file -s be2388d183affa92151a828b5c793340ea6ba698
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :WEB-INF/classes/controller/ServletLivrosAdmin.java
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/WEB-INF/classes/controller/ServletLivrosAdmin.java
+> git cat-file -s 9560ec7ed0f51d52606c592cb963d8b7a8cc9aae
+> git show --textconv :WEB-INF/classes/controller/ServletLivrosAdminEditar.java
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/WEB-INF/classes/controller/ServletLivrosAdminEditar.java
+> git cat-file -s 305c4986be227965db72b5e9c8e252ef0f2d7cb6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :WEB-INF/classes/controller/ServletUsuariosAdmin.java
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/WEB-INF/classes/controller/ServletUsuariosAdmin.java
+> git cat-file -s 724e2b0bafef8c3a51518a88d46c584444198105
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :README.md
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/README.md
+> git cat-file -s dd092c37d0bba9230d6708603024dfa8f037f1bb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :WEB-INF/classes/controller/ServletUsuariosAdmin.java
+> git ls-files --stage -- /opt/tomcat/webapps/teChegaPraLer/WEB-INF/classes/controller/ServletUsuariosAdmin.java
+> git cat-file -s 724e2b0bafef8c3a51518a88d46c584444198105
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

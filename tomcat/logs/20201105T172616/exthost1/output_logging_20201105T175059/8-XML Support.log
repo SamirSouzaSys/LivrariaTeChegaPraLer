@@ -6,3 +6,13 @@ LemMinX Server info:
  - Git 3c6c0de - [maven-release-plugin] prepare release 0.13.1
 [Warn  - 5:53:54 PM] Nov 05, 2020 05:53:54 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation()
 Message: Unmatched cancel notification for request id 19
+[Info  - 11:11:38 PM] Nov 05, 2020 11:11:38 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify()
+Message: Unsupported notification method: $/setTraceNotification
+[Info  - 11:17:14 PM] Nov 05, 2020 11:17:14 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify()
+Message: Unsupported notification method: $/setTraceNotification
+[Info  - 11:17:15 PM] Nov 05, 2020 11:17:15 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify()
+Message: Unsupported notification method: $/setTraceNotification
+[Info  - 11:17:15 PM] Nov 05, 2020 11:17:15 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify()
+Message: Unsupported notification method: $/setTraceNotification
+[Info  - 11:17:34 PM] Nov 05, 2020 11:17:34 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify()
+Message: Unsupported notification method: $/setTraceNotification
